@@ -1,0 +1,119 @@
+.galleryWrap {
+    display: flex;
+    flex-wrap: wrap;
+    /* gap:10px; */
+    align-items: center;
+    justify-content: center;
+    max-width: 1360px;
+    margin: 0 auto;
+    /* margin-top: 40px; */
+}
+
+.galleryWrap .single {
+    margin-top: 10px;
+    width: 300px;
+    /* height: 800px; */
+    cursor: pointer;
+}
+
+.galleryWrap .single img {
+    max-width: 250px;
+    max-height: 250px;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+}
+
+.galleryWrap .single img:hover {
+    transform: scale(2);
+    z-index :1000;
+}
+
+.sliderWrap {
+    position: relative;
+    padding:25px 0;
+    z-index: 19;
+    background-color: rgba(24, 24, 24, 0.558);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+.sliderWrap .btnClose, .sliderWrap .btnPrev, .sliderWrap .btnNext {
+    position: relative;
+    cursor: pointer;
+    opacity: 0.6;
+    color: #000000;
+    z-index: 999;
+}
+
+.sliderWrap .btnClose {
+    padding: 5px;
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+.sliderWrap .btnClose:hover {
+    background-color:rgb(225, 25, 25);
+    color: black;
+}
+.downloadbtn {
+    padding: 5px;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.downloadbtn:hover {
+    background-color:rgb(12, 200, 12);
+    color: black;
+}
+
+.sliderWrap .btnPrev:hover {
+    background-color: rgb(255, 251, 0);
+}
+
+.sliderWrap .btnPrev {
+    height: 45px;
+    padding: 5px;
+    border: black;
+    color: black;
+    background-color: rgb(191, 0, 255);
+    border-radius: 5px;
+    position: relative;
+    left: 600px;
+
+}
+
+.sliderWrap .btnNext:hover {
+    background-color: rgb(255, 251, 0);
+}
+.sliderWrap .btnNext {
+    height: 45px;
+    padding: 5px;
+    border: black;
+    color: black;
+    background-color: rgb(191, 0, 255);
+    border-radius: 5px;
+    position: relative;
+    right: 600px;
+
+}
+
+
+.fullScreenImage {
+    height: auto;
+    max-width: 600px;
+    /* max-height: 500px; */
+}
+.fullScreenImage .img {
+    max-height: 450px;
+    max-width: 500px;
+}
