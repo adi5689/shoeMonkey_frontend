@@ -19,7 +19,7 @@ const RelatedProducts = ({ products }) => {
     },
   };
   return (
-    <div className=" h-[500px] md:h-[600px] mt-[50px] md:mt-[100px] mb-2] md:mb-0">
+    <div className=" h-[600px] md:h-[600px] mt-[50px] md:mt-[100px] mb-2] md:mb-0">
       <div className="text-2xl font-bold mb-5 text-white">Related Products</div>
       <Carousel
         responsive={responsive}
