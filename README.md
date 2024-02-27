@@ -1,42 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-
 ![shoemonkey_1](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/7d0fae03-f397-41df-9c00-e2e4f19db6db)
-
-
-
+![shoemonkey_2](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/5a18392b-d14e-4647-9034-3ea2b110ae54)
+![shoemonkey_4](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/f6bf8e94-b31b-45ee-90dd-787cac579ad0)
+![shoemonkey_3](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/50e8355f-0f93-47fc-a0d3-3862c391a213)
+![shoemonkey_5](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/498cecff-3f70-445f-88fa-7e975208120b)
+![shoemonkey_6](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/69563f10-eea5-4a63-8688-c3186ac95fda)
+![shoemonkey_7](https://github.com/adi5689/shoeMonkey_frontend/assets/111190263/287b1bed-af2c-4666-ba57-e861ac8e0f65)
